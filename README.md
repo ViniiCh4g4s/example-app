@@ -9,7 +9,7 @@
 
 </div>
 
-Este é um **projeto base** para inicializar rapidamente novas aplicações **full stack** usando **Laravel 11 + React + Vite**.  
+Este é um **projeto base** para inicializar rapidamente novas aplicações **full stack** usando **Laravel 12 + React + Vite**.  
 Inclui autenticação via **Laravel Breeze**, configuração otimizada do Vite e estrutura de pastas limpa para desenvolvimento moderno.
 
 ---
@@ -45,7 +45,7 @@ example-app/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seuusuario/example-app.git
+git clone https://github.com/ViniiCh4g4s/example-app.git
 cd example-app
 ```
 
