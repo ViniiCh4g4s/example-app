@@ -18,15 +18,6 @@ class DatabaseSeeder extends Seeder
         if (!App::environment('testing')) {
             $this->createAdminUser();
         }
-
-        // Sempre roda os seeders de conteúdo do jogo
-        $this->call([
-            LocationSeeder::class,
-            QuestionSeeder::class,
-            SecretWordSeeder::class,
-            FactionSeeder::class,
-            CategorySeeder::class,
-        ]);
     }
 
     /**
@@ -40,7 +31,7 @@ class DatabaseSeeder extends Seeder
             [
                 'name'     => 'Vinicius Boschetti',
                 'avatar'   => 'default-1.jpg',
-                'password' => Hash::make('qypxep-0Bypqa-mivtod'),
+                'password' => Hash::make('admin@123'),
             ]
         );
 
