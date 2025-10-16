@@ -1,5 +1,14 @@
 # 🚀 Example App — Template Base Laravel + React + Vite
 
+<div align="center">
+    
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![React](https://img.shields.io/badge/React-18.x-61dafb.svg)
+![Laravel](https://img.shields.io/badge/Laravel-12.x-ff2d20.svg)
+
+</div>
+
 Este é um **projeto base** para inicializar rapidamente novas aplicações **full stack** usando **Laravel 11 + React + Vite**.  
 Inclui autenticação via **Laravel Breeze**, configuração otimizada do Vite e estrutura de pastas limpa para desenvolvimento moderno.
 
